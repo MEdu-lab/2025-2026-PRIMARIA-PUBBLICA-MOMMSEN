@@ -17,8 +17,10 @@ subtitle: Casa dei Bambini *il Girasole* - 2025/2026
 title: Titolo del progetto
 ---
 
-Per il quarto anno consecutivo vi proponiamo il laboratorio di musica d'insieme per l'infanzia, un corso extracurriculare pomeridiano aperto alle bambine e ai bambini che frequentano la Casa dei Bambini *il Girasole*. Ogni anno il laboratorio è stato guidato da musicisti formati nella pratica della musica contemporanea, elettroacustica e popolare, che hanno condiviso con i bambini un'atmosfera leggera ma densa di attività.
-Nella progettazione di esperienze di apprendimento significative cerchiamo l'innesco della scintilla dell'interesse dei bambini e puntiamo a realizzare alcune istanze della musica di ricerca del XX e XXI secolo su cui lavoriamo quotidianamente, in collaborazione con alcuni importanti Conservatori italiani.
+Nella società odierna la dimensione collettiva sta visibilmente perdendo importanza a favore della solitudine tecnologica.
+Il nostro progetto si pone in rotta di collisione contro l'individualismo crescente utilizzando la musica come vettore sociale per agevolare esperienze di condivisione tra i bambini. Attingendo al ricco patrimonio musicale folclorico, guideremo i bambini attraverso storie, paesaggi e realtà che hanno avuto larga fortuna nelle generazioni precedenti.
+Questa materia così viva nasconde sfide che si traducono nel bambino in competenze trasversali da acquisire lungo il corso. 
+Nella progettazione di esperienze di apprendimento significative cerchiamo di trasmettere un'esigenza di "essere con" l'altro e abitare insieme una realtà sociale che è quella della musica d'insieme.
 
 \vspace{.7cm}
 
