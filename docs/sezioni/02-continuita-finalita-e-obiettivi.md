@@ -1,12 +1,12 @@
 ## RISULTATI, FINALITÀ E OBIETTIVI
 
-Il progetto si fonda sul principio che l'apprendimento musicale nei bambini dell'infanzia e della primaria non produce necessariamente un risultato tangibile nel "saggio di fine anno", ma manifesta il suo valore nel **{{ metodologia.focus_principale }}** vissuto, che si concretizza nelle possibilità di ognuno di **inventare e ri-costruire mondi sonori** attraverso il gioco e la relazione con i maestri e i compagni.
-Il riscontro per noi più prezioso è arrivato dalle famiglie che ci hanno riportato come i bambini hanno interiorizzato le esperienze vissute riproponendo le attività svolte a casa. Ad esempio esplorare le sonorità dell'ambiente circostante, trasformare oggetti quotidiani in strumenti musicali, vocalizzare ritmi, brevi sillabe e filastrocche.
-Il progetto mira a scoprire le capacità di ascolto e attenzione ...
+Il progetto si fonda sul principio che l'esperienza musicale nei bambini dell'infanzia e della scuola primaria non produce necessariamente un risultato tangibile nel "saggio di fine anno", ma manifesta il suo valore nel **{{ metodologia.focus_principale }}** vissuto, che si concretizza nelle possibilità di ognuno di **inventare e ri-costruire mondi sonori** attraverso il gioco e la relazione con i maestri e i compagni.
+In questo contesto, la finalità del corso è usare la musica come strumento per accompagnare i bambini in un’esperienza di scoperta e crescita, dove ognuno può esprimere se stesso e sentirsi parte di un gruppo. L’obiettivo non è solo imparare a suonare, ma vivere la musica come un mezzo per migliorare la relazione con gli altri, scoprire nuove emozioni e sviluppare una maggiore consapevolezza di sé.
 
 **Obiettivi specifici:**
-  - Sviluppare la capacità di ascolto attivo e l'invenzione sonora  
-  - Potenziare la coordinazione motoria attraverso l'esperienza musicale  
-  - Favorire l'esplorazione tattile ed uditiva utilizzando diversi materiali  
-  - Promuovere la socializzazione e la condivisione di spazi e tempi in comune  
-  - Stimolare la creatività nella costruzione di oggetti sonori  
+  - Promuovere la capacità di ascolto attivo e di concentrazione
+  - Migliorare la coordinazione motoria e la consapevolezza corporea
+  - Stimolare l'esplorazione tattile ed uditiva attraverso diversi materiali  
+  - Favorire la socializzazione e la condivisione di spazi e tempi in comune  
+  - Incoraggiare la creatività nella creazione di strumenti musicali
+  - Sviluppare la comuncazione non verbale e l'intelligenza emotiva 
