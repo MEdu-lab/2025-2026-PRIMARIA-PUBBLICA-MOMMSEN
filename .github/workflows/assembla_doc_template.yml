@@ -53,12 +53,20 @@ jobs:
     - name: Install Pandoc
       run: apk add --no-cache pandoc
 
+    #- name: Genera il PDF con Pandoc
+    #  run: |
+    #    pandoc README.md -o progetto-completo.pdf \
+    #      --pdf-engine=xelatex \
+    #      --template=customPandoc.latex 
     - name: Genera il PDF con Pandoc
       run: |
+        TITLE=$(sed -n '/^---$/,/^---$/p' README.md | grep '^title:' | head -n1 | sed 's/title:[[:space:]]*//; s/^ *//; s/ *$//; s/[*]//g')
+        SAFE_TITLE=$(echo "$TITLE" | tr ' ' '_' | tr -cd '[:alnum:]_')
+        echo "Generazione PDF: $SAFE_TITLE.pdf"
         pandoc README.md -o progetto-completo.pdf \
           --pdf-engine=xelatex \
           --template=customPandoc.latex 
-          
+
     - name: Debug check for .git
       run: ls -la $GITHUB_WORKSPACE/.git
 
