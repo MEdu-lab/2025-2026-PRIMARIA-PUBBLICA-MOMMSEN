@@ -38,6 +38,12 @@ jobs:
       with:
         fetch-depth: 0
 
+    - name: Install missing LaTeX packages     
+      run: |
+        tlmgr update --self || true
+        tlmgr option repository http://mirror.ctan.org/systems/texlive/tlnet || true
+        tlmgr install authblk || tlmgr install preprint
+
     - name: Install Python + deps
       run: |
         apk add --no-cache python3 py3-pip bash git
