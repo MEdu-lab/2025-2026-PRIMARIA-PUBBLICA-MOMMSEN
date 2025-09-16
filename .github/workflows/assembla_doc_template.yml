@@ -26,7 +26,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/kjarosh/latex:2025.1-small
+      image: ghcr.io/kjarosh/latex:2024.4-small
       #image: ghcr.io/kjarosh/latex:2024.4-full
 
     steps:
@@ -40,8 +40,7 @@ jobs:
 
     - name: Install missing LaTeX packages     
       run: |
-        update-tlmgr-latest.sh --update
-        tlmgr option repository http://mirror.ctan.org/systems/texlive/tlnet || true
+        tlmgr option repository http://mirror.ctan.org/systems/texlive/tlnet/2024 || true
         tlmgr install authblk || tlmgr install preprint
 
     - name: Install Python + deps
