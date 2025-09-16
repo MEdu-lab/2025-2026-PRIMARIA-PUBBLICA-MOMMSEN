@@ -26,7 +26,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/kjarosh/latex:2024.4-full
+      image: ghcr.io/kjarosh/latex:2024.4-small
+      #image: ghcr.io/kjarosh/latex:2024.4-full
 
     steps:
     - name: Install git
