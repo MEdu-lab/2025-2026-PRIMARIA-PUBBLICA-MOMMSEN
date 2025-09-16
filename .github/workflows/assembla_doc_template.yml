@@ -40,7 +40,7 @@ jobs:
 
     - name: Install missing LaTeX packages     
       run: |
-        tlmgr update --self || true
+        update-tlmgr-latest.sh --update
         tlmgr option repository http://mirror.ctan.org/systems/texlive/tlnet || true
         tlmgr install authblk || tlmgr install preprint
 
