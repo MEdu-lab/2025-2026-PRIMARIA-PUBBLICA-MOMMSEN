@@ -26,7 +26,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/kjarosh/latex:2024.4-small
+      image: ghcr.io/kjarosh/latex:2025.1-small
       #image: ghcr.io/kjarosh/latex:2024.4-full
 
     steps:
