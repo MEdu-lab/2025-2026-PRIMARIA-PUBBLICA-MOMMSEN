@@ -10,7 +10,7 @@ on:
       - 'config.yml'
       - '.github/scripts/**'
       - '.github/workflows/**'
-      - '**/*.sty'
+      - 'styles/**'
       - '*.tex'
       - 'customPandoc.latex'
       
@@ -61,7 +61,6 @@ jobs:
         echo "PDF_NAME=$PDF_NAME" >> $GITHUB_ENV
         mkdir -p pages_artifact
         cp "${PDF_NAME}" pages_artifact/latest.pdf
-
     - uses: actions/upload-artifact@v4
       with:
         name: progetto-completo_pdf
