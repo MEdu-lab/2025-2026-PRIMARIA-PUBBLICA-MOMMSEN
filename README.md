@@ -14,7 +14,7 @@ header-includes:
   \ Di Gasbarro}\\\\\\textit{coordinatore}\\\\\\textit{dottorando in Composizione\
   \ e Performance Musicale, Conservatorio di Ferrara}\n      \\end{minipage}}"
 subtitle: Scuola Primaria *G. Verdi* - 2025/2026
-title: Orizzonti Sonori
+title: Canti del Mondo
 ---
 
 Nella società contemporanea la dimensione collettiva tende a cedere spazio all’isolamento e all’uso individuale delle tecnologie. Il nostro progetto intende contrastare questa tendenza valorizzando la musica come vettore sociale e inclusivo, capace di favorire esperienze autentiche di condivisione e collaborazione tra i bambini della scuola primaria.
