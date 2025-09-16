@@ -40,7 +40,7 @@ jobs:
 
     - name: Install missing LaTeX packages     
       run: |
-        tlmgr install authblk
+        tlmgr install preprint
 
     - name: Install Python + deps
       run: |
