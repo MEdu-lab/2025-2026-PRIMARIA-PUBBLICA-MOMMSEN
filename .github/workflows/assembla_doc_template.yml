@@ -40,7 +40,7 @@ jobs:
 
     - name: Install missing LaTeX packages     
       run: |
-        tlmgr install authblk etoolbox fancyhdr geometry
+        tlmgr install authblk
 
     - name: Install Python + deps
       run: |
