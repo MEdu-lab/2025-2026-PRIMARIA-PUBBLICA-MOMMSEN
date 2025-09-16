@@ -47,17 +47,12 @@ jobs:
 
     - name: Processa i template con Python
       run: |
-        rm -f README.md
+        rm -f README.md *.pdf
         python3 .github/scripts/process-template.py
 
     - name: Install Pandoc
       run: apk add --no-cache pandoc
 
-    #- name: Genera il PDF con Pandoc
-    #  run: |
-    #    pandoc README.md -o progetto-completo.pdf \
-    #      --pdf-engine=xelatex \
-    #      --template=customPandoc.latex 
     - name: Genera il PDF con Pandoc
       run: |
         TITLE=$(sed -n '/^---$/,/^---$/p' README.md | grep '^title:' | head -n1 | sed 's/title:[[:space:]]*//; s/^ *//; s/ *$//; s/[*]//g')
