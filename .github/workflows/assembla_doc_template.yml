@@ -40,7 +40,7 @@ jobs:
 
     - name: Install missing LaTeX packages     
       run: |
-        tlmgr option repository http://mirror.ctan.org/systems/texlive/tlnet
+        #tlmgr option repository http://mirror.ctan.org/systems/texlive/tlnet
         tlmgr install authblk titlesec etoolbox fancyhdr geometry
 
     - name: Install Python + deps
