@@ -37,9 +37,6 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: Debug .git presence immediately after checkout
-      run: ls -la $GITHUB_WORKSPACE/.git
-
     - name: Install Python + deps
       run: |
         apk add --no-cache python3 py3-pip bash git
@@ -62,16 +59,6 @@ jobs:
           --pdf-engine=xelatex \
           --template=customPandoc.latex 
 
-    - name: Debug check for .git
-      run: ls -la $GITHUB_WORKSPACE/.git
-
-    - name: Mostra working directory e presenza .git
-      run: |
-        echo "PWD=$(pwd)"
-        echo "GITHUB_WORKSPACE=$GITHUB_WORKSPACE"
-        ls -la "$GITHUB_WORKSPACE"
-        ls -la "$GITHUB_WORKSPACE/.git"
-
     - name: Commit del documento assemblato
       run: |
         cd "$GITHUB_WORKSPACE"
@@ -83,6 +70,12 @@ jobs:
         git add README.md
         git diff --staged --quiet || git commit -m "Auto-aggiornamento documento con template [skip ci]"
 
+    - uses: actions/upload-artifact@v4
+      with:
+        name: progetto
+        path: "*.pdf"
+        overwrite: true
+        
     - name: Push delle modifiche
       uses: ad-m/github-push-action@master
       with:
