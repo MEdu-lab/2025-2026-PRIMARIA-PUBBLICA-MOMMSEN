@@ -80,7 +80,7 @@ jobs:
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git add -u
-        git add README.md *.pdf
+        git add README.md
         git diff --staged --quiet || git commit -m "Auto-aggiornamento documento con template [skip ci]"
 
     - name: Push delle modifiche
