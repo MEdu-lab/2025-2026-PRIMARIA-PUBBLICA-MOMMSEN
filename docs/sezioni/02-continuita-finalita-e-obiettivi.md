@@ -9,4 +9,4 @@ In questo contesto, la finalità del corso è usare la musica come strumento per
   - Stimolare l'esplorazione tattile ed uditiva attraverso diversi materiali  
   - Favorire la socializzazione e la condivisione di spazi e tempi in comune  
   - Incoraggiare la creatività nella creazione di strumenti musicali
-  - Sviluppare la comuncazione non verbale e l'intelligenza emotiva 
+  - Sviluppare la comunicazione non verbale e l'intelligenza emotiva 
