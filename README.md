@@ -4,15 +4,12 @@ documentclass: article
 header-includes:
 - \usepackage{styles/mystyle}
 - \newcommand{\gruppo}{MEduLab}
-- "\\newcommand{\\authorlist}{\\begin{minipage}{0.3\\textwidth}\n        \\centering\n\
+- "\\newcommand{\\authorlist}{\\begin{minipage}{0.45\\textwidth}\n        \\centering\n\
   \        \\textbf{Pietro Barale}\\\\\\textit{operatore}\\\\\\textit{diplomato in\
   \ Musica Applicata alle immagini, Conservatorio di Santa Cecilia, Roma}\n      \\\
-  end{minipage}\\hfill\\begin{minipage}{0.3\\textwidth}\n        \\centering\n   \
-  \     \\textbf{Giulio Romano De Mattia}\\\\\\textit{operatore}\\\\\\textit{ diplomato\
-  \ in Musica Elettronica, Conservatorio di Santa Cecilia, Roma}\n      \\end{minipage}\\\
-  hfill\\begin{minipage}{0.3\\textwidth}\n        \\centering\n        \\textbf{Marco\
-  \ Di Gasbarro}\\\\\\textit{coordinatore}\\\\\\textit{dottorando in Composizione\
-  \ e Performance Musicale, Conservatorio di Ferrara}\n      \\end{minipage}}"
+  end{minipage}\\hfill\\begin{minipage}{0.45\\textwidth}\n        \\centering\n  \
+  \      \\textbf{Giulio Romano De Mattia}\\\\\\textit{operatore}\\\\\\textit{ diplomato\
+  \ in Musica Elettronica, Conservatorio di Santa Cecilia, Roma}\n      \\end{minipage}}"
 subtitle: Scuola Primaria *G. Verdi* - 2025/2026
 title: Canti del Mondo
 ---
@@ -31,8 +28,6 @@ Il progetto si fonda sulla progettazione di **esperienze di apprendimento signif
 - **Pietro Barale** - diplomato in Musica Applicata alle immagini, Conservatorio di Santa Cecilia, Roma
 
 - **Giulio Romano De Mattia** -  diplomato in Musica Elettronica, Conservatorio di Santa Cecilia, Roma
-
-- **Marco Di Gasbarro** - dottorando in Composizione e Performance Musicale, Conservatorio di Ferrara
 
 
 -->
