@@ -10,7 +10,7 @@ header-includes:
   end{minipage}\\hfill\\begin{minipage}{0.45\\textwidth}\n        \\centering\n  \
   \      \\textbf{Giulio Romano De Mattia}\\\\\\textit{operatore}\\\\\\textit{ diplomato\
   \ in Musica Elettronica, Conservatorio di Santa Cecilia, Roma}\n      \\end{minipage}}"
-subtitle: Scuola Primaria *G. Verdi* - 2025/2026
+subtitle: Progetto per la Scuola Primaria - 2026/2027
 title: Canti del Mondo
 ---
 
@@ -44,7 +44,7 @@ In questo contesto, la finalità del corso è usare la musica come strumento per
   - Stimolare l'esplorazione tattile ed uditiva attraverso diversi materiali  
   - Favorire la socializzazione e la condivisione di spazi e tempi in comune  
   - Incoraggiare la creatività nella creazione di strumenti musicali
-  - Sviluppare la comuncazione non verbale e l'intelligenza emotiva 
+  - Sviluppare la comunicazione non verbale e l'intelligenza emotiva 
 
 
 ## METODO: RISORSE E MATERIALI
