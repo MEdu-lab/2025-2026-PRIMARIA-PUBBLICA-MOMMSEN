@@ -6,11 +6,9 @@ Il tema del corso è la valorizzazione del tessuto sociale collettivo e delle sp
 
 Le attività si articolano su diverse dimensioni: 
 
-- la dimensione corporea: il corpo è il primo strumento musicale. I bambini imparano semplici ritmi battendo le mani, i piedi, producendo suoni con la bocca e imitando suoni che già conoscono. Successivamente, questa esperienza si arricchisce con l'uso di strumenti a percussione semplici e sicuri (maracas, tamburelli, legnetti, campanelle).
-
-- La dimensione vocale: le musiche popolari diventano veicoli per esplorare la coordinazione tra gesto e suono: i bambini imparano a sentire il ritmo articolando semplici sillabe e sperimentano semplici canti attraverso giochi musicali attivi.
-
-- La dimensione dell'ascolto e della musica d'insieme: i bambini sperimentano l'ascolto attivo attraverso il riconoscimento di strumenti tradizionali provenienti dalle diverse culture rappresentate in classe (tamburello, castagnette, flauto di canna, tabla, djembe, etc.). Attraverso giochi sonori, imparano a distinguere i timbri caratteristici e costruiscono piccoli gruppi di improvvisazione musicale in cui condividere insieme un ascolto collettivo.
+- *la dimensione corporea:* il corpo è il primo strumento musicale. I bambini imparano semplici ritmi battendo le mani, i piedi, producendo suoni con la bocca e imitando suoni che già conoscono. Successivamente, questa esperienza si arricchisce con l'uso di strumenti a percussione semplici e sicuri (maracas, tamburelli, legnetti, campanelle).
+- *La dimensione vocale:* le musiche popolari diventano veicoli per esplorare la coordinazione tra gesto e suono: i bambini imparano a sentire il ritmo articolando semplici sillabe e sperimentano semplici canti attraverso giochi musicali attivi.
+- *La dimensione dell'ascolto e della musica d'insieme:* i bambini sperimentano l'ascolto attivo attraverso il riconoscimento di strumenti tradizionali provenienti dalle diverse culture rappresentate in classe (tamburello, castagnette, flauto di canna, tabla, djembe, etc.). Attraverso giochi sonori, imparano a distinguere i timbri caratteristici e costruiscono piccoli gruppi di improvvisazione musicale in cui condividere insieme un ascolto collettivo.
 
 **Materiali forniti durante il corso:**  
 - Strumenti musicali e oggetti comuni per l'esplorazione sonora  
